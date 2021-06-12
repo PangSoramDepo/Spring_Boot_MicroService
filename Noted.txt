@@ -1,0 +1,10 @@
+*** Add Dependency:
+_Spring Web
+_Spring Data JPA
+_H2 Database
+_Lombok
+
+*** VO Stand For Value Object
+
+*** To Get Data From Another Service We Use RestTemplate (I Think It Similar To Guzzle In Laravel)
+
