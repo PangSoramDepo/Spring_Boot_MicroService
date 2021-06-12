@@ -3,6 +3,7 @@ _Spring Web
 _Spring Data JPA
 _H2 Database
 _Lombok
+_Eureka Discovery Client
 
 *** VO Stand For Value Object
 
