@@ -1,0 +1,4 @@
+*** Add Dependency:
+_Gateway
+_Spring Boot Actuator
+_Eureka Discovery Client
