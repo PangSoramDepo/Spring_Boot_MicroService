@@ -9,3 +9,4 @@ _Eureka Discovery Client
 
 *** To Get Data From Another Service We Use RestTemplate (I Think It Similar To Guzzle In Laravel)
 
+*** Apply @LoadBalanced For RestTemplate Because If Have Multiple DEPARTMENT SERVICE It Will LoadBalanced For Us
