@@ -3,3 +3,4 @@ _Spring Web
 _Spring Data Jpa
 _H2 Database
 _Lombok
+_Eureka Discovery Client
