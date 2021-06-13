@@ -2,3 +2,5 @@
 _Gateway
 _Spring Boot Actuator
 _Eureka Discovery Client
+_Hystrix
+_Resilience4j (Look At Pom, Don't Have This One Will Error)
