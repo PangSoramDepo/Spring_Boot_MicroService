@@ -1,0 +1,3 @@
+*** Add Dependency:
+_Eureka Client
+_Hystrix Dashboard
